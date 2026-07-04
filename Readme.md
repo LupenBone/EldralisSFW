@@ -9,12 +9,14 @@ This repository contains the Safe‑For‑Work (SFW) beta version of the Eldrali
 	•	A Knowledge JSON with immersive world‑building, narrative tools, and social mechanics.
 All NSFW content (intimacy rules, heat cycles, explicit anatomy, etc.) has been completely removed, making this version safe for public Discord servers and general use.
 
+
 ⚠️ Beta Notice
 This is a work‑in‑progress beta release. While the core systems are functional, you may encounter:
 	•	Incomplete WI entries (some species or factions may have less detail).
 	•	Balance issues in combat encounters or quest generation.
 	•	Missing translation for Hungarian prompts (only English is fully tested).
 Feedback and contributions are welcome! Please open an issue or reach out via the support channels.
+
 
 🚀 Installation Guide
 Prerequisites
