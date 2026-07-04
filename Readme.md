@@ -1,30 +1,29 @@
-Eldralis: Primal Awakening – SFW Beta for SillyTavern
+# Eldralis: Primal Awakening – RPG System for SillyTavern ( Beta 1 for Testing ) 
 
- A complete Dark Fluff anthro RPG system for SillyTavern, powered by DeepSeek V4 Flash Thinking.
+A complete Dark Fluff anthro RPG system for SillyTavern, powered by DeepSeek V4 Flash Thinking.
 
- Files:
+## Files
 
-- Eldralis_System_Prompt_SFW.txt – The Narrator System Prompt
-- Eldralis_System_SFW.json – Core World Info (anatomy, mechanics, NPCs, bestiary, quests, etc.)
-- Eldralis_Knowledge_SFW.json – World & Environment WIs (regions, societies, narrative tools, etc.)
-- Features:
+- `Eldralis_System_Prompt_V12.0.md` – The Narrator System Prompt (V12.0)
+- `Eldralis_System.json` – Core World Info (anatomy, mechanics, NPCs, Heat Mode, etc.)
+- `knowledge.json` – World & Environment WIs (regions, societies, narrative tools, etc.)
+
+## Features
 
 - Dark Fluff (cozy + horror) narrative style
 - D&D 5e based mechanics with visible dice rolls
 - Dynamic Focus System – the model adapts to the scene type
 - 24 anthro species with full D&D 5e stats
+- Heat Mode with Slow Zoom, NPC Sensitivity, and Hybrid Proactivity
 - English naming convention (even in Hungarian output)
 - Hard Knowledge Firewall – NPCs know only what they should
-- Spiderweb Quest Matrix – non-linear, branching quests
-- Full character creation (16 steps) with D&D 5e stats
-- All NSFW content removed – Discord safe
-  Installation:
 
-  Import the System Prompt into your SillyTavern character.
-  Load both JSON files as World Info (Lorebook).
-  Start the adventure!
-  Beta Notice:
-  This is a work-in-progress beta release. Core systems work, but you may encounter incomplete entries or balance issues. Feedback is welcome!
+## Installation
 
-License:
+1. Import the System Prompt into your SillyTavern character.
+2. Load both JSON files as World Info (Lorebook).
+3. Start the adventure!
+
+## License
+
 MIT – feel free to use, modify, and share.
