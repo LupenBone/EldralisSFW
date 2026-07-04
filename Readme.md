@@ -18,13 +18,13 @@ Eldralis: Primal Awakening – SFW Beta for SillyTavern
 - Spiderweb Quest Matrix – non-linear, branching quests
 - Full character creation (16 steps) with D&D 5e stats
 - All NSFW content removed – Discord safe
-- Installation:
+  Installation:
 
-- Import the System Prompt into your SillyTavern character.
-- Load both JSON files as World Info (Lorebook).
-- Start the adventure!
-- Beta Notice:
-- This is a work-in-progress beta release. Core systems work, but you may encounter incomplete entries or balance issues. Feedback is welcome!
+  Import the System Prompt into your SillyTavern character.
+  Load both JSON files as World Info (Lorebook).
+  Start the adventure!
+  Beta Notice:
+  This is a work-in-progress beta release. Core systems work, but you may encounter incomplete entries or balance issues. Feedback is welcome!
 
 License:
 MIT – feel free to use, modify, and share.
